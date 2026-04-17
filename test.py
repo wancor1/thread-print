@@ -1,4 +1,4 @@
-from util.print import get_async_print
+from print import get_async_print
 import time,numpy
 
 X=50000
